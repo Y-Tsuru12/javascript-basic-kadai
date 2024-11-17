@@ -1,6 +1,6 @@
-const double = (num) => {
+const spuare = (num) => {
   return num *10;
 }
 
-console.log(double(10));
+console.log(spuare(10));
 
